@@ -40,8 +40,18 @@ Canonical base URL:
 | `katana-slash-overlay.png` | Primary motion accent | Header or hero edge; low opacity; never across report content |
 | `intersecting-stripes-overlay.png` | Structural frame | Cover, section divider, or empty state; keep central content clear |
 | `blue-flame-overlay.png` | Energy accent | Footer/hero edge or loading state; use sparingly |
+| `player-bg-blue.png` | Player-page blue master | Player profile, cover, or high-energy section divider |
+| `player-bg-white-blue.png` | White and blue background | General content with dark-blue text |
+| `player-bg-black-blue.png` | Black and electric-blue background | Cover, closing, or match-night slide |
+| `player-bg-navy-silver.png` | Navy and silver background | Premium title, leadership, or review slide |
+| `player-bg-blue-red.png` | Blue with red accents | Match-day emphasis; keep red secondary |
+| `player-brush-overlay.png` | Transparent brush treatment | Place over a solid field or photo; keep copy in the open centre-left |
 
 The source file named `fun-club-wordmark.png` is intentionally published as `wildknights-wordmark.png`. Image bytes are unchanged.
+
+Additional full-slide colourways are published as `background-black.png`, `background-blue-2791f5.png`, `background-dark-red.png`, `background-gray.png`, `background-green.png`, `background-green-27f579.png`, `background-light-blue.png`, `background-orange.png`, `background-red.png`, `background-red-f52727.png`, `background-sparkling-red.png`, and `background-yellow.png`.
+
+Supporting reference assets include `wildknights-crest.png`, `club-mark.png`, `league-one.svg`, `subaru.png`, `dream-alive.svg`, `rugby-ball.png`, `fan-zone.png`, `stadium.png`, the three `fanclub-*` images, and home/visitor uniform reference images. Official-site marks and photographs remain reference assets unless publication permission is confirmed.
 
 ## Composition rules
 
@@ -52,6 +62,7 @@ The source file named `fun-club-wordmark.png` is intentionally published as `wil
 5. Use hard corners or a very small radius (`0–4px`). Prefer crisp lines and diagonal accents to soft consumer-app styling.
 6. Use yellow for the active tab, selected rating, page indicator, or a thin rule—not large panels.
 7. Preserve generous clear space around the wordmark and sponsor lockup. Never stretch, recolor, redraw, or generate substitutes.
+8. `player-brush-overlay.png` has a true alpha channel. Insert it normally; do not use “Set Transparent Color”.
 
 ## Typography
 
